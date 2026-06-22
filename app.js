@@ -1,1 +1,1 @@
-t3
+console.log
